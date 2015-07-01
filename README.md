@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Science Coursra
+Data Science Coursera
